@@ -12,7 +12,6 @@ class PanelHeader extends React.Component{
 			</div>
 		);
 	}
-	
 }
 
 export default PanelHeader;
